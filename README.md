@@ -67,7 +67,10 @@
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
      <td align="center"> 
-        💻<a href="https://github.com/fl9mdasif/smartbrief-client">Smart Briref Ai</a>
+        💻<a href="https://ai-resume-analyzer-lense-8llxg.puter.site">Resume Analyzer lense </a>
+     </td>
+     <td align="center"> 
+        💻<a href="https://master.d3mia3lbsm9fsq.amplifyapp.com/login">Smart Briref Ai</a>
      </td>
     <td align="center"> 
         💻<a href="https://master.d18ycpe02we2yn.amplifyapp.com">Blood Hub</a>
