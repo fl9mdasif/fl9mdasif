@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/fl9mdasif" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-    <a href="https://drive.google.com/file/d/1jjm2I5XuvJkTG2z0_aMkQR63CuGZDJid/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1W6ITHXW-LvLLawbHq4aPmAKViyP6zRSf/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-%230077b5?style=flat-square&logo=google-drive" alt="Resume" />
   </a>
   <a href="https://www.facebook.com/devmdasifofficial" target="_blank">
