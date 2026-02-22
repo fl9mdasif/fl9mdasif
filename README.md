@@ -48,25 +48,30 @@
 </p>
 
 <!-- recents works -->
-
+<div style="margin:5px 0;">
+  
 <h4>🚩 My recent projects</h4>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li>
-     <b><a href="https://vidmaxx-rho.vercel.app">VidMaxX</a></b> — An AI-powered full-stack SaaS platform that helps users generate, schedule, and publish short-form videos across social media.
+  <li  >
+     🤖<b><a href="https://vidmaxx-rho.vercel.app" style="text-decoration: none;">VidMaxX</a></b> — An AI-powered full-stack SaaS platform that helps users generate, schedule, and publish short-form videos across social media.
   </li>
-  <br>
-  <li>
-    <b><a href="https://ai-resume-analyzer-lense-8llxg.puter.site">Resumind</a></b> — An AI assistant (AI Resume Analyzer Lense) designed to help candidates navigate the modern hiring landscape.
+  <li >
+    🔎 <b><a href="https://ai-resume-analyzer-lense-8llxg.puter.site" style="text-decoration: none;">Resumind</a></b> — An AI assistant (AI Resume Analyzer Lense) designed to help candidates navigate the modern hiring landscape.
   </li>
-  <br>
-  <li>
-     <b><a href="https://master.d18ycpe02we2yn.amplifyapp.com">BloodHub</a></b> — An online blood donation platform featuring dashboards and role-based access.
+  <li >
+    📝 <b><a href="https://master.d3mia3lbsm9fsq.amplifyapp.com/login" style="text-decoration: none;">SmartBrief AI</a></b> — A React-based platform providing a clean, role-aware interface for AI summarization with token management.
   </li>
-  <br>
-  <li>
-     <b><a href="https://github.com/fl9mdasif/pet-adoption-client-nextjs">Pet Adoption Care</a></b> — A full-stack application built with Next.js for managing pet adoptions.
+  <li  >
+    🛠️ <b><a href="https://master.d1bh62q9i66qw7.amplifyapp.com/" style="text-decoration: none;">Jatiyo Tools</a></b> — A utility suite featuring an FB video downloader, internet speed tester, AI assistant, and background remover.
+  </li>
+  <li style="">
+    🩸 <b><a href="https://master.d18ycpe02we2yn.amplifyapp.com" style="text-decoration: none;">Blood Hub</a></b> — An online blood donation platform featuring dashboards and role-based access.
+  </li>
+  <li >
+    🐈‍⬛ <b><a href="https://github.com/fl9mdasif/pet-adoption-client-nextjs" style="text-decoration: none;">Pet Adoption Care</a></b> — A full-stack application built with Next.js for managing pet adoptions.
   </li>
 </ul>
+</div>
 
 
 
