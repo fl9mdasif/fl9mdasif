@@ -54,7 +54,7 @@
       📝 <b><a href="https://master.d3mia3lbsm9fsq.amplifyapp.com/login" style="text-decoration: none;">SmartBrief AI</a></b> — A React-based platform providing a clean, role-aware interface for AI summarization with token management.
     </li>
      <li style="margin: 10px 0;">
-      ⌨️ <b><a href="https://master.d1bh62q9i66qw7.amplifyapp.com" style="text-decoration: none;">Typing Master</a></b> — A progressive touch-typing trainer, Learn proper touch-typing from scratch through structured lessons.
+      ⌨️ <b><a href="https://master.d26adgs03vcji6.amplifyapp.com/" style="text-decoration: none;">Typing Master</a></b> — A progressive touch-typing trainer, Learn proper touch-typing from scratch through structured lessons.
     </li>
     <li style="margin: 10px 0;">
       🩸 <b><a href="https://master.d18ycpe02we2yn.amplifyapp.com" style="text-decoration: none;">Blood Hub</a></b> — An online blood donation platform featuring dashboards and role-based access.
