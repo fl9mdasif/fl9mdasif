@@ -60,7 +60,7 @@
       🩸 <b><a href="https://master.d18ycpe02we2yn.amplifyapp.com" style="text-decoration: none;">Blood Hub</a></b> — An online blood donation platform featuring dashboards and role-based access.
     </li>
     <li style="margin: 10px 0;">
-      🛠️ <b><a href="https://master.d1bh62q9i66qw7.amplifyapp.com/" style="text-decoration: none;">Jatiyo Tools</a></b> — A utility suite featuring an FB video downloader, internet speed tester, AI assistant, and background remover.
+      🛠️ <b><a href="https://jatiyotools.vercel.app" style="text-decoration: none;">Jatiyo Tools</a></b> — A utility suite featuring an FB video downloader, internet speed tester, AI assistant, and background remover.
     </li>
     <li style="margin: 10px 0;">
       🐈‍⬛ <b><a href="https://github.com/fl9mdasif/pet-adoption-client-nextjs" style="text-decoration: none;">Pet Adoption Care</a></b> — A full-stack application built with Next.js for managing pet adoptions.
