@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/fl9mdasif" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://drive.google.com/file/d/1W6ITHXW-LvLLawbHq4aPmAKViyP6zRSf/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1i646oIYPByDGPNfZFZ31iFBu3i6Z5WtN/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-023047?style=flat-square&logo=google-drive" alt="Resume" />
   </a>
   <a href="mailto:asifalazad.fullstack@gmail.com">
@@ -54,6 +54,9 @@
   <h2 style="border-bottom: 2px solid #000000; padding-bottom: 10px;">🚩 My Recent Projects</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin: 15px 0;">
+       📝<b><a href="https://sultan-bazar.com" style="text-decoration: none;">NexTasks Django</a></b>  — NexTask is a dark-themed, high-performance SaaS web application. It serves as a unified workspace for Kanban-style task management and medical image/scan polygon annotation.
+    </li>
+    <li>
       🍃<b><a href="https://sultan-bazar.com" style="text-decoration: none;">Sultan Bazar</a></b>  — A robust, full-stack e-commerce platform for organic and traditional food products, engineered to deliver a seamless and secure shopping experience.
     </li>
     <li style="margin: 15px 0;">
@@ -80,13 +83,13 @@
 
  
 
-**Languages:** ![C](https://img.shields.io/badge/C_Programming-A8B9CC?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python (Learning)](https://img.shields.io/badge/Python_(Learning)-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+**Languages:** ![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python (Learning)](https://img.shields.io/badge/Python_(Learning)-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 **Frontend Development:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square) ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer_Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 **UI Libraries:** ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Aceternity_UI](https://img.shields.io/badge/Aceternity_UI-black?style=flat-square) ![Radix_UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white) ![Ant_Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-512BD4?style=flat-square&logo=daisyui&logoColor=white) ![Material_UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-**Backend & Integration:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Nest.js (Learning)](https://img.shields.io/badge/Nest.js_(Learning)-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-000000?style=flat-square)
+**Backend & Integration:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Django DRF](https://img.shields.io/badge/Django-2D3748?style=flat-square&logo=django&logoColor=green) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-000000?style=flat-square)
 
 **Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
@@ -103,13 +106,13 @@
     <tr>
       <td align="center" style="padding: 5px;">
         <a href="https://github.com/fl9mdasif">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fl9mdasif&show_icons=true&locale=en&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=fl9mdasif&show_icons=true&locale=en&layout=compact&theme=react" alt="GitHub Streak" />
         </a>
       </td>
       <td align="center" style="padding: 5px;">
-        <a href="https://github.com/fl9mdasif">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=fl9mdasif&theme=react&hide_border=false" alt="GitHub Streak" />
-        </a>
+         <a href="https://github.com/fl9mdasif">
+          <img src="https://streak-stats.demolab.com/?user=fl9mdasif&theme=react&hide_border=false&cache_bust=1" alt="GitHub Streak" />
+         </a>
       </td>
     </tr>
   </table>
