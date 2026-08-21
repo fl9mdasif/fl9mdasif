@@ -54,7 +54,7 @@
   <h2 style="border-bottom: 2px solid #000000; padding-bottom: 10px;">🚩 My Recent Projects</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin: 15px 0;">
-       📝<b><a href="https://sultan-bazar.com" style="text-decoration: none;">NexTasks Django</a></b>  — NexTask is a dark-themed, high-performance SaaS web application. It serves as a unified workspace for Kanban-style task management and medical image/scan polygon annotation.
+       📝<b><a href="https://nextasks-annotate.vercel.app" style="text-decoration: none;">NexTasks Django</a></b>  — NexTask is a dark-themed, high-performance SaaS web application. It serves as a unified workspace for Kanban-style task management and medical image/scan polygon annotation.
     </li>
     <li>
       🍃<b><a href="https://sultan-bazar.com" style="text-decoration: none;">Sultan Bazar</a></b>  — A robust, full-stack e-commerce platform for organic and traditional food products, engineered to deliver a seamless and secure shopping experience.
