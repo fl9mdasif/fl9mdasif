@@ -3,7 +3,7 @@
   <table align="center" style="border-collapse: collapse; width: 100%;">
     <tr>
       <td align="center"> 
-          <img align="center" src="https://i.ibb.co/pbv7mmy/hero-dev-sort.png" style="width:1600px; height:220px; object-fit:contain;" />
+          <img align="center" src="https://i.ibb.co/XrkMm4Xp/blob.jpg" style="width:1600px; height:250px; object-fit:contain;" />
        </td>
     </tr>
   </table>
