@@ -26,7 +26,7 @@
 
 <!-- Social Links -->
 <div align="center" style="margin-bottom: 40px;">
-  <a href="https://dev-mdasif-portolio.vercel.app" target="_blank">
+  <a href="https://www.asifalazad.com" target="_blank">
     <img src="https://img.shields.io/badge/Visit_Portfolio-%058b32?style=flat-square&logo=link" alt="Visit Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/fl9mdasif" target="_blank">
