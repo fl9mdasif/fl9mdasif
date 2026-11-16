@@ -37,7 +37,7 @@ I am a **Full-Stack Software Engineer** based in Dhaka, Bangladesh, with **3+ ye
 <table>
   <tr>
     <td>
-      <h3><a href="https://school-erp-saas-client.vercel.app">Digital Pathshala</a></h3>
+      <h3><a href="https://digital-pathsala.vercel.app/">Digital Pathshala</a></h3>
       A multi-tenant School ERP SaaS for schools, madrasas and coaching centres, built and shipped by <a href="https://isoftwarecare.com">Interactive Software Care</a>. One platform, many institutions, each with its own isolated workspace.
       <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -45,7 +45,7 @@ I am a **Full-Stack Software Engineer** based in Dhaka, Bangladesh, with **3+ ye
       <img src="https://img.shields.io/badge/Multi--tenant_SaaS-2563eb?style=flat-square" alt="Multi-tenant SaaS" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       <br/><br/>
-      <a href="https://school-erp-saas-client.vercel.app"><b>View live product</b></a>
+      <a href="https://digital-pathsala.vercel.app/"><b>View live product</b></a>
     </td>
   </tr>
 </table>
@@ -56,9 +56,9 @@ I am a **Full-Stack Software Engineer** based in Dhaka, Bangladesh, with **3+ ye
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| [**Sultan Bazar**](https://sultan-bazar.com) | Full-stack e-commerce platform for organic and traditional food, with role-based access, order tracking and secure checkout. | Next.js, TypeScript, Node.js, MongoDB |
-| [**VidMaxX**](https://vidmaxx-rho.vercel.app) | AI video SaaS that generates, schedules and publishes short videos across social media. | Next.js, Gemini, Deepgram, AWS Lambda, Inngest |
-| [**NexTasks**](https://nextasks-annotate.vercel.app) | Dark-themed SaaS workspace for Kanban task management and medical image polygon annotation. | React, Django DRF |
+| [**Sultan Bazar**](https://github.com/fl9mdasif/sultan-bazar) | Full-stack e-commerce platform for organic and traditional food, with role-based access, order tracking and secure checkout. | Next.js, TypeScript, Node.js, MongoDB |
+| [**VidMaxX**](https://vidmaxx-topaz.vercel.app/) | AI video SaaS that generates, schedules and publishes short videos across social media. | Next.js, Gemini, Deepgram, AWS Lambda, Inngest |
+| [**NexTasks**](https://nextasks-seven.vercel.app/) | Dark-themed SaaS workspace for Kanban task management and medical image polygon annotation. | React, Django DRF |
 | [**Resumind**](https://ai-resume-analyzer-lense-8llxg.puter.site) | AI assistant that helps candidates navigate the modern hiring landscape. | React, LLM integration |
 | [**SmartBrief AI**](https://master.d3mia3lbsm9fsq.amplifyapp.com/login) | AI summarization platform with token management. | React, AWS Amplify |
 | [**Typing Master**](https://master.d26adgs03vcji6.amplifyapp.com/) | Progressive touch-typing trainer. | React, TypeScript |
